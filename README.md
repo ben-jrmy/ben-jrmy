@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hey, I'm Benedict!  
 
-<!--
-**ben-jrmy/ben-jrmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **AI Automation Specialist | AI Chat & Voice Bots | No-Code Developer**  
 
-Here are some ideas to get you started:
+💡 I help businesses **automate tasks, increase efficiency, save time and money** using AI-powered **chatbots, voice assistants, and workflow automation**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 **What I Do**
+✅ **AI Chat Agents:** Voiceflow, Tixie  
+✅ **AI Voice Agents:** Vapi, Retell, Bland 
+✅ **No-Code Automation:** Make.com, Zapier, n8n  
+✅ **Custom AI Solutions for Businesses**  
+
+---
+
+## 📌 **Featured Projects**  
+🔹 **[Project Name 1](#)** – AI Chatbot for [Industry]  
+🔹 **[Project Name 2](#)** – AI Voice Agent for [Business]  
+🔹 **[Project Name 3](#)** – Automated CRM System  
+
+---
+
+## 📞 **Get in Touch**
+📧 **Email:** mailto:benedictautomation@gmail.com
+💼 **Upwork:** 
+🔹 **GitHub Portfolio:** [your GitHub repo link]  
+
+💻 **Let’s build something amazing!** 🚀  
